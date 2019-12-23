@@ -11,4 +11,4 @@ console.log(`The preamble is:
 \t${a}
 
 Does the preamble contain 'a'?
-\t${a.includes('a')}`)
+\t${a.includes('a')}`);//print
