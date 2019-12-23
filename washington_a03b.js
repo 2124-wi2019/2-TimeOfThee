@@ -58,4 +58,4 @@ function count(){//countsdown
         counterStartValue--;//reduce
     }
     return ret;//return
-}
+};//end
